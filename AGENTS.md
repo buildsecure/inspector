@@ -10,6 +10,7 @@
 - Development mode: `npm run dev` (use `npm run dev:windows` on Windows)
 - Format code: `npm run prettier-fix`
 - Client lint: `cd client && npm run lint`
+- others
 
 ## Code Style Guidelines
 
